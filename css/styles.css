@@ -364,10 +364,6 @@ nav h1 a {
     margin-left: 10%;
     margin-right: 10%; 
   }
-  #reviews-list {
-    display: grid;
-    grid-template-columns: 50% 50%;
-  }
   #restaurant-img {
     width: 80%;
   }
