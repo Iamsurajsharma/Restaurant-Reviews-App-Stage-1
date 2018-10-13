@@ -327,7 +327,7 @@ nav h1 a {
 
 #restaurant-hours td {
   color: #666;
-  font-size: 1rem;
+  font-size: 1.28rem;
   text-align: left;
 }
 
@@ -367,6 +367,9 @@ nav h1 a {
   #reviews-list {
     display: grid;
     grid-template-columns: 50% 50%;
+  }
+  #restaurant-img {
+    width: 80%;
   }
 }
 
